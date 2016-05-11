@@ -1,0 +1,175 @@
+body{
+    background-image: url(../Images/Background.jpg);
+    background-repeat: no-repeat;
+}
+img#headerimg{
+    position: relative;
+    right: 0.4%;
+    bottom: 8.6px;
+}
+div#Signing{
+    width:248px;
+    height: 150px;
+    margin-top: 20px;
+    position: relative;
+    left: 1520px;
+}
+label{
+       font-family: 'Matura MT Script Capitals';
+    color: #4d3c2c;
+    float: right;
+}
+input[type=email]{
+    font-family: 'Matura MT Script Capitals';
+    color: #4d3c2c;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-color: aquamarine;
+    outline: none;
+}
+input[type=password]{
+    font-family: 'Matura MT Script Capitals';
+    color: #4d3c2c;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-color: aquamarine;
+    margin-top: 5px;  
+    outline-style: none;
+}
+input[value=Login]{
+    width: 49px;
+  position: relative;
+    left: 60%;
+    top: 40px;
+    opacity: 0.8;
+}
+div#maincontent{
+    background-color: white;
+    width: 800px;
+    height: 480px;
+      position: relative;
+    top: 230px;
+    margin: auto;
+    border-radius: 20px;
+    opacity: 0.2;
+    
+}
+div#Text{
+    width: 700px;
+    margin: auto;
+    position: relative;
+    bottom: 100px;
+}
+span.spanstyle h1{
+    font-family: 'Matura MT Script Capitals';
+    color: #4d3c2c;
+    width: 480px;
+    margin: auto;
+
+    
+}
+span.spanstyle{
+    font-family: 'Matura MT Script Capitals';
+    color: #4d3c2c;
+    font-size: 36px;
+    position: relative;
+    bottom: 50px;
+    
+    
+}
+
+
+img#Twitter{
+    cursor: pointer;
+    width: 31px;
+    position: fixed;
+    left: 98.397%;
+    top: 400px;
+    opacity: 0.6;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+}
+img#Twitter:hover{
+    opacity: 1;
+    
+}
+
+
+ .animate
+        {
+            transition: all 0.1s;
+            -webkit-transition: all 0.1s;
+        }
+
+        .action-button
+        {
+            position: relative;
+            padding: 10px 40px;
+            margin: 0px 10px 10px 0px;
+            float: left;
+            border-radius: 10px;
+            font-family: 'Pacifico', cursive;
+            font-size: 25px;
+            color: #FFF;
+            text-decoration: none;	
+        }
+        
+        
+        .action-button:active
+        {
+            transform: translate(0px,5px);
+          -webkit-transform: translate(0px,5px);
+            border-bottom: 1px solid;
+        }
+        
+        .color{      
+        
+            background-image:url(../Images/12833201_522967417883539_391416412_n.jpg);
+            background-size: 300px 80px;
+            border-bottom: 5px solid #543220;
+            text-shadow: 0px -2px #543220;
+        }
+        
+        .buy{
+            position:absolute;
+            width:300px;
+            height:80px;
+            left:900px;
+            bottom: 95px;
+            margin-left:-50px;
+            margin-top:-50px;
+            outline: none!important;
+        }
+        
+        .info{
+            position:absolute;
+            width:300px;
+            height:80px;
+            left:35%;
+            top:60%;
+            margin-left:-50px;
+            margin-top:-50px;
+        }
+form#register fieldset{
+    position: fixed;
+    bottom: 500px;
+}
+
+div.container{
+    position: fixed;
+    top: 40%;
+    left: 33%;
+    width: 700px;
+    background-color: white;
+    border-radius: 20px;
+}
+div.container label{
+    font-family: 'Pacifico', cursive;
+}
+ul#accountinfo{
+    position: fixed;
+    top: 50%;
+}

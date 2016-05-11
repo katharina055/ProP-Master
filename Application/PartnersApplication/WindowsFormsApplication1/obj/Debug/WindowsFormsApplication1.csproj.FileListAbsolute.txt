@@ -1,0 +1,2 @@
+D:\FONTYS\PROP\Applications\PartnersApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FONTYS\PROP\Aplications\PartnersApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
